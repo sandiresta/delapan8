@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.set_page_config(page_title="Image Processing App", page_icon= r"assets/logo_pu.png")
+st.set_page_config(page_title="Image Processing App", page_icon= r"https://delapan8-e3npd83rteocqgdt5iycfd.streamlit.app/assets/logo_pu.png")
 
 st.sidebar.title("Navigation")
 st.sidebar.write("Use the sidebar to navigate through the app.")
